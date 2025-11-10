@@ -14,11 +14,37 @@ language_tabs:
   shell: cURL
 ---
 
-# Visão geral - API Cielo Conecta Cielo
+# INTRODUÇÃO
+
+## Conheça o Cielo Conecta 
 
 # Objetivo
 
-Possibilitar a integração de parceiros de negócio/Subadquirentes com a Cielo para transações com cartões não-presentes (transações digitadas) e cartões presentes nas modalidades Chip e Tarja.
+O Cielo Conecta permite integrar parceiros de negócio e subadquirentes à Cielo para realizar transações com cartões não presentes (transações digitadas) e cartões presentes nas modalidades chip e tarja. 
+
+O Cielo Conecta oferece recursos *plug and play*, que funcionam imediatamente após a integração: basta conectar ao Conecta para começar a operar! 
+
+Com o Cielo Conecta, você pode: 
+
+- Integrar sua solução de pagamentos diretamente à Cielo, eliminando a necessidade de intermediários; 
+- Simplificar processos e reduzir custos; 
+- Centralizar e agilizar atualizações; 
+- Armazenar dados de cartão com segurança por meio da tokenização e realizar cobranças recorrentes (a partir da primeira transação presencial); 
+- Reduzir o desfazimento das transações através da API de consulta de transação; 
+- Garantir autonomia na gestão do parque de Pin Pad; 
+- Gerenciar lojas e terminais pelo Portal Conecta, incluindo criação de usuários, definição de perfis de acesso e gestão de aplicativos; 
+- Facilitar a conciliação. 
+
+Para atender diferentes modelos de negócio, o Cielo Conecta oferece uma ampla gama de funcionalidades:  
+
+- Crédito e débito 
+- Parcelado loja e emissor 
+- Pré-autorização 
+- Pré-pago 
+- Cancelamento 
+- Construcard 
+- Private label 
+- Voucher (Ticket e Alelo) 
 
 # Glossário
 
